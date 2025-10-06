@@ -104,6 +104,7 @@ screen -dmS argon2 bash $STRATUM_DIR/run.sh argon2
 screen -dmS argon2d250 bash $STRATUM_DIR/run.sh argon2d250
 screen -dmS argon2d500 bash $STRATUM_DIR/run.sh argon2d500
 screen -dmS argon2d4096 bash $STRATUM_DIR/run.sh argon2d4096
+screen -dmS argon2d16000 bash $STRATUM_DIR/run.sh argon2d1000
 screen -dmS argon2d16000 bash $STRATUM_DIR/run.sh argon2d16000
 screen -dmS astralhash bash $STRATUM_DIR/run.sh astralhash
 screen -dmS bastion bash $STRATUM_DIR/run.sh bastion
